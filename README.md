@@ -67,6 +67,7 @@ there is `parker` if you want to ask me anything.
 - dlozeve's
   [bqn-safetensors](https://github.com/dlozeve/bqn-safetensors), for
   reading and writing arrays to files in the safetensors format.
+- GamingKing2436's [bqn-zip](https://github.com/GamingKing2436/bqn-zip), for reading and writing zip files.
 
 ## Neat projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
