@@ -68,6 +68,8 @@ there is `parker` if you want to ask me anything.
 - dlozeve's
   [bqn-safetensors](https://github.com/dlozeve/bqn-safetensors), for
   reading and writing arrays to files in the safetensors format.
+- Solid's [totp](https://github.com/slotThe/totp),
+  a [TOTP](https://datatracker.ietf.org/doc/html/rfc6238) generator.
 
 ## Neat projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
