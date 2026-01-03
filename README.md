@@ -18,7 +18,8 @@ there is `parker` if you want to ask me anything.
   [LSP](https://microsoft.github.io/language-server-protocol/) for BQN. Requires rust.
 - [tree-sitter-bqn](https://github.com/shnarazk/tree-sitter-bqn), BQN support for 
   [tree-sitter](https://tree-sitter.github.io/tree-sitter/).
-  
+- [bqn-fmt](https://github.com/slotThe/bqn-fmt), a formatter for
+  word-based symbol entry. Requires Rust.
 
 ## Libraries
 - Marshall Lochbaum's [bqn-libs](https://github.com/mlochbaum/bqn-libs), including:
