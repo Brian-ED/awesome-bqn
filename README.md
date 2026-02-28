@@ -70,6 +70,8 @@ there is `parker` if you want to ask me anything.
   reading and writing arrays to files in the safetensors format.
 - Solid's [totp](https://github.com/slotThe/totp),
   a [TOTP](https://datatracker.ietf.org/doc/html/rfc6238) generator.
+- GamingKing2436's [bqn-zip](https://github.com/GamingKing2436/bqn-zip), for reading 
+  and writing zip files.
 
 ## Neat projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
