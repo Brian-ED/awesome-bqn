@@ -9,7 +9,7 @@ there is `Brian E` if you want to ask me anything.
 
 ## IDE/Editors
 - [beacon](https://github.com/x86y/beacon), native BQN IDE/REPL
-- [bqn-vscode plugin](https://github.com/razetime/bqn-vscode), 
+- [bqn-vscode plugin](https://github.com/mk12/bqn-vscode), 
   for those that need a web browser to edit code.
 - `vim(1)`, see [here](https://mlochbaum.github.io/BQN/editors/index.html#vim)
 - `neovim(1)`, see the [`nvim-bqn`](https://git.sr.ht/~detegr/nvim-bqn) plugin.
