@@ -4,7 +4,7 @@
 If you have any libraries or projects that you'd like to be put on here,
 feel free to issue a pull request!  I'm also active on the `#bqn` channel
 on [The APL Farm](https://discord.gg/2x6r6VgAmY) discord.  My username on 
-there is `parker` if you want to ask me anything.
+there is `Brian E` if you want to ask me anything.
 
 
 ## IDE/Editors
@@ -76,3 +76,6 @@ there is `parker` if you want to ask me anything.
 ## Neat projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
   version of CBQN
+
+## Special thanks
+Special thanks to [Parker](<https://codeberg.org/parker>) for being the original creator of Awesome BQN and maintaining it for over 2 and a half years!
