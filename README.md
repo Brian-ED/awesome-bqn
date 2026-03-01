@@ -64,7 +64,7 @@ there is `Brian E` if you want to ask me anything.
 - Brian ED's [c-header-to-bqn-ffi](https://github.com/Brian-ED/c-header-to-bqn-ffi)
 - Alex Dikelsky's [bqn-modular-arith](https://github.com/AlexDikelsky/bqn-modular-arith),
   functions for working with modular arithmetic in BQN.
-- dlozeve's [curl bindings](https://github.com/dlozeve/bqn-curl)
+- dlozeve's [bqn-curl](https://github.com/dlozeve/bqn-curl), [curl](https://curl.se) bindings.
 - dlozeve's [bqn-npy](https://github.com/dlozeve/bqn-npy), for reading
   and writing arrays to files in the Numpy NPY format.
 - dlozeve's
