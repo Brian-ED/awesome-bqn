@@ -54,7 +54,6 @@ there is `Brian E` if you want to ask me anything.
 - razetime's [bqn-unit](https://github.com/razetime/bqn-unit), BQN unit testing
 - icendoan's [bqn-bindings](https://github.com/icendoan/bqn-bindings),
   "miscellaneous bindings for useful C libraries from BQN"
-- loovjo's [bless](https://github.com/loovjo/bless), a curses-like library
 - Brian ED's [rayed-bqn](https://github.com/Brian-ED/rayed-bqn), the only BQN library as
   of right now that can write windowed applications.
 - Brian ED's [bqn-socket](https://github.com/Brian-ED/bqn-socket/) library. Only tested on
