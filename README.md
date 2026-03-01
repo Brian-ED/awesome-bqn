@@ -36,6 +36,7 @@ there is `Brian E` if you want to ask me anything.
   - [prime numbers](https://github.com/mlochbaum/bqn-libs/blob/master/primes.bqn)
   - [square roots](https://github.com/mlochbaum/bqn-libs/blob/master/roots.bqn)
   - [string functions](https://github.com/mlochbaum/bqn-libs/blob/master/strings.bqn)
+  - [xml parsing](https://github.com/mlochbaum/bqn-libs/blob/master/xml.bqn)
 - Lochbaum's [BQNoise](https://github.com/mlochbaum/BQNoise) for
   "audio synthesis and processing."
 - frasiyav's [BQN-Gnuplot](https://github.com/frasiyav/BQN-Gnuplot), a wrapper
