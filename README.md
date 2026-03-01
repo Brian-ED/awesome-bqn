@@ -54,7 +54,8 @@ there is `Brian E` if you want to ask me anything.
 - ap29600's [PNM image library](https://github.com/ap29600/bqn-image)
 - razetime's [bqn-unit](https://github.com/razetime/bqn-unit), BQN unit testing
 - icendoan's [bqn-bindings](https://github.com/icendoan/bqn-bindings),
-  "miscellaneous bindings for useful C libraries from BQN"
+  miscellaneous bindings for useful C libraries from BQN. Currently some of C stdlib,
+  [cURL](https://curl.se/), and [Jansson JSON](https://jansson.readthedocs.io/en/latest/).
 - Brian ED's [rayed-bqn](https://github.com/Brian-ED/rayed-bqn),
   wrapper of [raylib-bqn](https://github.com/Brian-ED/raylib-bqn),
   useful for making windowed applications.
