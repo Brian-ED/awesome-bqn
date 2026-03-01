@@ -55,8 +55,10 @@ there is `Brian E` if you want to ask me anything.
 - razetime's [bqn-unit](https://github.com/razetime/bqn-unit), BQN unit testing
 - icendoan's [bqn-bindings](https://github.com/icendoan/bqn-bindings),
   "miscellaneous bindings for useful C libraries from BQN"
-- Brian ED's [rayed-bqn](https://github.com/Brian-ED/rayed-bqn), the only BQN library as
-  of right now that can write windowed applications.
+- Brian ED's [rayed-bqn](https://github.com/Brian-ED/rayed-bqn),
+  wrapper of [raylib-bqn](https://github.com/Brian-ED/raylib-bqn),
+  useful for making windowed applications.
+- Brian ED's [raylib-bqn](https://github.com/Brian-ED/raylib-bqn), [raylib](https://github.com/raysan5/raylib) bindings.
 - Brian ED's [bqn-socket](https://github.com/Brian-ED/bqn-socket/) library. Only tested on
   Linux Mint at the moment.
 - Brian ED's [c-header-to-bqn-ffi](https://github.com/Brian-ED/c-header-to-bqn-ffi)
