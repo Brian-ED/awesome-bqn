@@ -75,6 +75,8 @@ there is `Brian E` if you want to ask me anything.
   a [TOTP](https://datatracker.ietf.org/doc/html/rfc6238) generator.
 - GamingKing2436's [bqn-zip](https://github.com/GamingKing2436/bqn-zip), for reading 
   and writing zip files.
+- panadestein's [bqn-mpi](https://codeberg.org/panadestein/bqn-mpi), for parallel programming
+	  with the Message Passing Interface (MPI).
 
 ## Neat projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
