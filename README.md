@@ -58,7 +58,9 @@ there is `Brian E` if you want to ask me anything.
   [cURL](https://curl.se/), and [Jansson JSON](https://jansson.readthedocs.io/en/latest/).
 - Brian ED's [rayed-bqn](https://github.com/Brian-ED/rayed-bqn),
   wrapper of [raylib-bqn](https://github.com/Brian-ED/raylib-bqn),
-  useful for making windowed applications.
+  useful for making windowed applications. It includes the bqn-only mini-libraries:
+  - [Game-related math including Vector, Matrix, and Quaternions](https://github.com/brian-ED/rayed-bqn/blob/master/src/math.bqn)
+  - [Low-level operations](https://github.com/brian-ED/rayed-bqn/blob/master/src/low.bqn)
 - Brian ED's [raylib-bqn](https://github.com/Brian-ED/raylib-bqn), [raylib](https://github.com/raysan5/raylib) bindings.
 - Brian ED's [bqn-socket](https://github.com/Brian-ED/bqn-socket/) library. Only tested on
   Linux Mint at the moment.
