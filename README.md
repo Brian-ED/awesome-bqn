@@ -79,6 +79,7 @@ there is `Brian E` if you want to ask me anything.
   and writing zip files.
 - panadestein's [bqn-mpi](https://codeberg.org/panadestein/bqn-mpi), for parallel programming
 	  with the Message Passing Interface (MPI).
+- panadestein's [bqn-einsum](https://codeberg.org/panadestein/bqn-einsum/src/branch/main), for Einstein summation.
 - xenia's [bless](https://github.com/xeniagda/bless), a simple curses-like library for BQN.
 
 ## Neat projects
