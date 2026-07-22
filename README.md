@@ -81,6 +81,7 @@ there is `Brian E` if you want to ask me anything.
 	  with the Message Passing Interface (MPI).
 - panadestein's [bqn-einsum](https://codeberg.org/panadestein/bqn-einsum/src/branch/main), for Einstein summation.
 - xenia's [bless](https://github.com/xeniagda/bless), a simple curses-like library for BQN.
+- GamingKing2436's [nbt-bqn](https://github.com/GamingKing2436/nbt-bqn), a library for parsing Minecraft's NBT files.
 
 ## Neat projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
