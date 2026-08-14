@@ -83,6 +83,7 @@ there is `Brian E` if you want to ask me anything.
 - xenia's [bless](https://github.com/xeniagda/bless), a simple curses-like library for BQN.
 - TankorSmash's [bqn-libspng](https://github.com/tankorsmash/bqn-libspng), BQN bindings for [libspng](https://github.com/randy408/libspng).
 - GamingKing2436's [nbt-bqn](https://github.com/GamingKing2436/nbt-bqn), a library for parsing Minecraft's NBT files.
+- 0racle's [bqn-viewmat](https://github.com/0racle/bqn-viewmat), a clone of J's Viewmat addon for displaying matrices.
 
 ## Neat projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
