@@ -41,8 +41,8 @@ there is `Brian E` if you want to ask me anything.
   "audio synthesis and processing."
 - frasiyav's [BQN-Gnuplot](https://github.com/frasiyav/BQN-Gnuplot), a wrapper
   for GnuPlot
-- frasiyav's [BQN-grad](https://github.com/frasiyav/BQN-grad), backpropogation
-  library
+- frasiyav's [BQN-grad](https://github.com/frasiyav/BQN-grad), reverse-mode
+  auto-differentiation, and a (very slow) neural network in BQN
 - MysticalUnicat's [ga_bqn](https://github.com/MysticalUnicat/ga_bqn), geometric
   algebra libraries for BQN
 - calebowens' [bqn-web-framework](https://github.com/calebowens/bqn-web-framework),
