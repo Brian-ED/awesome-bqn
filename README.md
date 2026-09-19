@@ -60,8 +60,8 @@ there is `Brian E` if you want to ask me anything.
   - [Game-related math including Vector, Matrix, and Quaternions](https://github.com/brian-ED/rayed-bqn/blob/master/src/math.bqn)
   - [Low-level operations](https://github.com/brian-ED/rayed-bqn/blob/master/src/low.bqn)
 - Brian ED's [raylib-bqn](https://github.com/Brian-ED/raylib-bqn), [raylib](https://github.com/raysan5/raylib) bindings.
-- Brian ED's [bqn-socket](https://github.com/Brian-ED/bqn-socket/) library. Only tested on
-  Linux Mint at the moment.
+- Brian ED's [bqn-socket](https://github.com/Brian-ED/bqn-socket/), a socket library for linux
+  allowing basic client-server communication.
 - Brian ED's [c-header-to-bqn-ffi](https://github.com/Brian-ED/c-header-to-bqn-ffi)
 - Alex Dikelsky's [bqn-modular-arith](https://github.com/AlexDikelsky/bqn-modular-arith),
   functions for working with modular arithmetic in BQN.
