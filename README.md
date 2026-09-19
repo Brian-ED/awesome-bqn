@@ -45,8 +45,6 @@ there is `Brian E` if you want to ask me anything.
   library
 - MysticalUnicat's [ga_bqn](https://github.com/MysticalUnicat/ga_bqn), geometric
   algebra libraries for BQN
-- bddean's [BQNprop](https://github.com/bddean/BQNprop), another backpropogation
-  library
 - calebowens' [bqn-web-framework](https://github.com/calebowens/bqn-web-framework),
   requires rust
 - dlozeve's [bqn-graphics](https://github.com/dlozeve/bqn-graphics), tools for
@@ -89,6 +87,7 @@ there is `Brian E` if you want to ask me anything.
 ## Neat projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
   version of CBQN
+- bddean's [BQNprop](https://github.com/bddean/BQNprop), toy backpropagation implementation
 
 ## Special thanks
 Special thanks to [Parker](<https://codeberg.org/parker>) for being the original creator of Awesome BQN and maintaining it for over 2 and a half years!
