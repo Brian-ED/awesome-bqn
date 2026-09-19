@@ -84,10 +84,10 @@ there is `Brian E` if you want to ask me anything.
 - 0racle's [bqn-viewmat](https://github.com/0racle/bqn-viewmat), a clone of J's Viewmat addon for displaying matrices.
 - 0racle's [bqn-pixbuf](https://github.com/0racle/bqn-pixbuf), for reading and writing images in several formats.
 
-## Neat projects
+## Neat Projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
   version of CBQN
 - bddean's [BQNprop](https://github.com/bddean/BQNprop), toy backpropagation implementation
 
-## Special thanks
+## Special Thanks
 Special thanks to [Parker](<https://codeberg.org/parker>) for being the original creator of Awesome BQN and maintaining it for over 2 and a half years!
