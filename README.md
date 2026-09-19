@@ -2,8 +2,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 If you have any libraries or projects that you'd like to be put on here,
-feel free to issue a pull request!  I'm also active on the `#bqn` channel
-on [The APL Farm](https://discord.gg/2x6r6VgAmY) discord.  My username on 
+feel free to issue a pull request! I'm also active on the `#bqn` channel
+on [The APL Farm](https://discord.gg/2x6r6VgAmY) discord. My username on 
 there is `Brian E` if you want to ask me anything.
 
 
@@ -37,10 +37,10 @@ there is `Brian E` if you want to ask me anything.
   - [square roots](https://github.com/mlochbaum/bqn-libs/blob/master/roots.bqn)
   - [string functions](https://github.com/mlochbaum/bqn-libs/blob/master/strings.bqn)
   - [xml parsing](https://github.com/mlochbaum/bqn-libs/blob/master/xml.bqn)
-- Lochbaum's [BQNoise](https://github.com/mlochbaum/BQNoise) for
-  "audio synthesis and processing."
+- Marshall Lochbaum's [BQNoise](https://github.com/mlochbaum/BQNoise) for
+  audio synthesis and processing.
 - frasiyav's [BQN-Gnuplot](https://github.com/frasiyav/BQN-Gnuplot), a wrapper
-  for GnuPlot
+  for GnuPlot.
 - frasiyav's [BQN-grad](https://github.com/frasiyav/BQN-grad), reverse-mode
   auto-differentiation, and a (very slow) neural network in BQN
 - MysticalUnicat's [ga_bqn](https://github.com/MysticalUnicat/ga_bqn), geometric
@@ -76,7 +76,7 @@ there is `Brian E` if you want to ask me anything.
 - GamingKing2436's [bqn-zip](https://github.com/GamingKing2436/bqn-zip), for reading 
   and writing zip files.
 - panadestein's [bqn-mpi](https://codeberg.org/panadestein/bqn-mpi), for parallel programming
-	  with the Message Passing Interface (MPI).
+  with the Message Passing Interface (MPI).
 - panadestein's [bqn-einsum](https://codeberg.org/panadestein/bqn-einsum/src/branch/main), for Einstein summation.
 - xenia's [bless](https://github.com/xeniagda/bless), a simple curses-like library for BQN.
 - TankorSmash's [bqn-libspng](https://github.com/tankorsmash/bqn-libspng), BQN bindings for [libspng](https://github.com/randy408/libspng).
@@ -86,8 +86,8 @@ there is `Brian E` if you want to ask me anything.
 
 ## Neat Projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
-  version of CBQN
-- bddean's [BQNprop](https://github.com/bddean/BQNprop), toy backpropagation implementation
+  version of CBQN.
+- bddean's [BQNprop](https://github.com/bddean/BQNprop), toy backpropagation implementation.
 
 ## Special Thanks
 Special thanks to [Parker](<https://codeberg.org/parker>) for being the original creator of Awesome BQN and maintaining it for over 2 and a half years!
